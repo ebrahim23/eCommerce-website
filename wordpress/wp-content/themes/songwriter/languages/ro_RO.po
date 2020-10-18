@@ -1,0 +1,914 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SongWriter 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-04 11:43+0100\n"
+"PO-Revision-Date: 2014-12-11 09:25+0100\n"
+"Last-Translator: Sanda Marin <contact@depozitulderetete.ro>\n"
+"Language-Team: Tomas Toman\n"
+"Language: Romanian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: ro_RO\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: 404.php:10 search.php:49
+msgid "Nothing Found"
+msgstr "Nu exista rezultate"
+
+#: 404.php:16
+msgid ""
+"Apologies, but no results were found for your request. Perhaps searching "
+"will help you to find a related content."
+msgstr ""
+"Imi pare rau, nu am gasit nimic care sa corespunda cererii tale. Este "
+"posibil sa gasesti ceea ce cauti in sectiunea de Cautare."
+
+#: archive.php:12
+#, php-format
+msgid "Daily Archive: %s"
+msgstr "Arhiva zilei: %s"
+
+#: archive.php:14
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr "Arhiva lunii: %s"
+
+#: archive.php:16
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr "Arhiva anului: %s"
+
+#: archive.php:18
+msgid "Archive"
+msgstr "Arhiva"
+
+#: author.php:12
+#, php-format
+msgid "Author Archive: %s"
+msgstr "Arhiva autorului: %s"
+
+#: class-tgm-plugin-activation.php:156
+msgid "Install Required Plugins"
+msgstr "Instalare module necesare"
+
+#: class-tgm-plugin-activation.php:157 functions.php:540
+msgid "Install Plugins"
+msgstr "Instalare module"
+
+#: class-tgm-plugin-activation.php:158 functions.php:544
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalare modul: %s"
+
+#: class-tgm-plugin-activation.php:159
+msgid "Something went wrong."
+msgstr "Ceva a mers prost."
+
+#: class-tgm-plugin-activation.php:170
+msgid "Return to Required Plugins Installer"
+msgstr "Inapoi la sectiunea de instalare a modulelor necesare"
+
+#: class-tgm-plugin-activation.php:171
+msgid "Return to the dashboard"
+msgstr "Inapoi la tabloul de bord"
+
+#: class-tgm-plugin-activation.php:172 class-tgm-plugin-activation.php:1838
+msgid "Plugin activated successfully."
+msgstr "Activare modul reusita."
+
+#: class-tgm-plugin-activation.php:173 class-tgm-plugin-activation.php:1536
+msgid "The following plugin was activated successfully:"
+msgstr "Urmatorul modul a fost activat cu succes:"
+
+#: class-tgm-plugin-activation.php:174
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toate modulele instalate au fost activate cu succes. %1$s"
+
+#: class-tgm-plugin-activation.php:175
+msgid "Dismiss this notice"
+msgstr "Ascunde acest mesaj"
+
+#: class-tgm-plugin-activation.php:1084
+msgid "External Link"
+msgstr "Link extern"
+
+#: class-tgm-plugin-activation.php:1089
+msgid "Private Repository"
+msgstr "Sursa privata"
+
+#: class-tgm-plugin-activation.php:1092
+msgid "Pre-Packaged"
+msgstr "Preambalat"
+
+#: class-tgm-plugin-activation.php:1096
+msgid "WordPress Repository"
+msgstr "Sursa oficiala WordPress"
+
+#: class-tgm-plugin-activation.php:1099
+msgid "Required"
+msgstr "Necesar"
+
+#: class-tgm-plugin-activation.php:1099
+msgid "Recommended"
+msgstr "Recomandat"
+
+#: class-tgm-plugin-activation.php:1102
+msgid "Not Installed"
+msgstr "Nu este instalat"
+
+#: class-tgm-plugin-activation.php:1104
+msgid "Installed But Not Activated"
+msgstr "Instalat dar ne-activat"
+
+#: class-tgm-plugin-activation.php:1274
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Nu exista module de instalat sau activat. <a href=\"%1$s\" title=\"Inapoi la "
+"tabloul de bord\">Inapoi la tabloul de bord</a>"
+
+#: class-tgm-plugin-activation.php:1290
+msgid "Plugin"
+msgstr "Modul"
+
+#: class-tgm-plugin-activation.php:1291
+msgid "Source"
+msgstr "Sursa"
+
+#: class-tgm-plugin-activation.php:1292
+msgid "Type"
+msgstr "Tip"
+
+#: class-tgm-plugin-activation.php:1293
+msgid "Status"
+msgstr "Stadiu"
+
+#: class-tgm-plugin-activation.php:1311
+msgid "Install"
+msgstr "Instaleaza"
+
+#: class-tgm-plugin-activation.php:1312
+msgid "Activate"
+msgstr "Activeaza"
+
+#: class-tgm-plugin-activation.php:1821
+msgid "Install package not available."
+msgstr "Pachet de instalare indisponibil"
+
+#: class-tgm-plugin-activation.php:1822
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Descarcare pachetului de instalare de la <span class=\"code\">%s</"
+"span>&#8230;"
+
+#: class-tgm-plugin-activation.php:1823
+msgid "Unpacking the package&#8230;"
+msgstr "Despachetare pachet&#8230;"
+
+#: class-tgm-plugin-activation.php:1824
+msgid "Installing the plugin&#8230;"
+msgstr "Instalare modul#8230;"
+
+#: class-tgm-plugin-activation.php:1825
+msgid "Plugin install failed."
+msgstr "Instalarea modulului a esuat."
+
+#: class-tgm-plugin-activation.php:1826
+msgid "Plugin installed successfully."
+msgstr "Modul instalat cu succes."
+
+#: class-tgm-plugin-activation.php:1837
+msgid "Plugin activation failed."
+msgstr "Activarea modulului a esuat."
+
+#: class-tgm-plugin-activation.php:1947
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Procesul de instalare si activare porneste acum. Pe unele servere este "
+"posibil sa dureze o vreme, va trebui sa ai rabdare."
+
+#: class-tgm-plugin-activation.php:1948
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s a fost instalat si activat cu succes."
+
+#: class-tgm-plugin-activation.php:1948 class-tgm-plugin-activation.php:1957
+msgid "Show Details"
+msgstr "Arata detalii"
+
+#: class-tgm-plugin-activation.php:1948 class-tgm-plugin-activation.php:1957
+msgid "Hide Details"
+msgstr "Ascunde detalii"
+
+#: class-tgm-plugin-activation.php:1949
+msgid "All installations and activations have been completed."
+msgstr "Toate operatiunile de instalare si activare s-au incheiat."
+
+#: class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalare si activare modul %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:1954
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Procesul de instalare porneste acum. Pe unele servere este posibil sa dureze "
+"o vreme, va trebui sa ai rabdare."
+
+#: class-tgm-plugin-activation.php:1955
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"A aparut o eroare in timpul instalarii modulului %1$s: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalarea modulului %1$s a esuat."
+
+#: class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s a fost instalat cu succes."
+
+#: class-tgm-plugin-activation.php:1958
+msgid "All installations have been completed."
+msgstr "Toate operatiunile de instalare s-au incheiat."
+
+#: class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalare modul %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:2050
+msgid "Return to the Dashboard"
+msgstr "Inapoi la tabloul de bord"
+
+#: comments.php:17 content-archives-audio.php:23 content-archives-image.php:23
+#: content-archives-standard.php:25 content-archives-status.php:22
+#: content-archives-video.php:23 single.php:32
+#: functions/fe/widget-posts-column.php:114
+#: functions/fe/widget-posts-column.php:130
+#: functions/fe/widget-posts-grid.php:115
+#: functions/fe/widget-posts-list.php:112
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 comentariu"
+msgstr[1] "%1$s Comentarii"
+
+#: comments.php:26
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarii mai vechi"
+
+#: comments.php:27
+msgid "Newer Comments &rarr;"
+msgstr "Comentarii mai noi &rarr;"
+
+#: comments.php:33
+msgid "Comments are closed."
+msgstr "Comentarea este inchisa."
+
+#: comments.php:38
+msgid "Your name"
+msgstr "Numele tau"
+
+#: comments.php:39
+msgid "Website"
+msgstr "Sit-ul web"
+
+#: comments.php:40
+msgid "Comment..."
+msgstr "Comentariu..."
+
+#: comments.php:44
+msgid "Leave a Comment"
+msgstr "Comentezi?"
+
+#: functions.php:153
+msgid "Video Thumbnail"
+msgstr "Miniatura video"
+
+#: functions.php:165
+msgid "Insert here the full URL address of the Video Thumbnail."
+msgstr "Introdu aici adresa URL pentru miniatura video."
+
+#: functions.php:220
+msgid "Main Header Menu"
+msgstr "Meniu superior principal"
+
+#: functions.php:221
+msgid "Social Networks Links"
+msgstr "Legaturi retele sociale"
+
+#: functions.php:222
+msgid "Carousel Menu"
+msgstr "Meniu carusel"
+
+#: functions.php:234
+msgid "Right Sidebar"
+msgstr "Bara laterala dreapta"
+
+#: functions.php:236
+msgid "Right sidebar which appears on all posts and pages."
+msgstr "Bara laterala dreapta care apare in toate paginile si articolele."
+
+#: functions.php:243
+msgid "Footer left widget area"
+msgstr "Subsol stanga"
+
+#: functions.php:245
+msgid "Left column with widgets in footer."
+msgstr "Zona de widget-uri din subsol, partea stanga."
+
+#: functions.php:252
+msgid "Footer middle widget area"
+msgstr "Subsol centru"
+
+#: functions.php:254
+msgid "Middle column with widgets in footer."
+msgstr "Zona de widget-uri din subsol, partea din mijloc."
+
+#: functions.php:261
+msgid "Footer right widget area"
+msgstr "Subsol dreapta"
+
+#: functions.php:263
+msgid "Right column with widgets in footer."
+msgstr "Zona de widget-uri din subsol, partea dreapta."
+
+#: functions.php:270
+msgid "Footer notices"
+msgstr "Notite in subsol"
+
+#: functions.php:272
+msgid ""
+"The line for copyright and other notices below the footer widget areas. "
+"Insert here one Text widget. The \"Title\" field at this widget should stay "
+"empty."
+msgstr ""
+"Zona de widget-uri din partea de jos a subsolului, sub cele 3 zone "
+"principale de widget-uri din subsol. Aici poti adauga drepturile de autor de "
+"exemplu; foloseste un widget de tip Text in care lasi necompletat campul "
+"Titlu."
+
+#: functions.php:279
+msgid "Homepage slideshow"
+msgstr "Pagina principala"
+
+#: functions.php:281
+msgid ""
+"The area for Cyclone Slider Widget which displays a slideshow on your "
+"homepage."
+msgstr ""
+"Zona de sub meniul principal, doar in pagina principala, folosita in mod "
+"normal pentru a afisa un slideshow folosind modulul Cyclone Slider."
+
+#: functions.php:300
+msgid "Read more"
+msgstr "Citeste mai mult"
+
+#: functions.php:347
+msgid "Post navigation"
+msgstr "Navigare articole"
+
+#: functions.php:355 search.php:35
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:462
+msgid "&larr; Previous"
+msgstr "&larr; Anteriorul"
+
+#: functions.php:356 search.php:36
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:465
+msgid "Next &rarr;"
+msgstr "Urmatorul &rarr;"
+
+#: functions.php:378
+msgid "&larr; Previous post"
+msgstr "&larr; Articolul anterior"
+
+#: functions.php:380
+msgid "Next post &rarr;"
+msgstr "Articolul urmator &rarr;"
+
+#: functions.php:398
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:398
+msgid "(Edit)"
+msgstr "(Editeaza)"
+
+#: functions.php:411
+msgid "(Post author)"
+msgstr "(Autor articol)"
+
+#: functions.php:417
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s la %2$s"
+
+#: functions.php:423
+msgid "Your comment is awaiting moderation."
+msgstr "Comentariul asteapta sa fie moderat"
+
+#: functions.php:429
+msgid "Reply"
+msgstr "Raspunde"
+
+#: functions.php:431 page.php:19 single.php:42
+#: template-full-width-without-sharing.php:20 template-full-width.php:20
+#: template-landing-page.php:20 template-sitemap.php:21
+#: template-without-sharing.php:20 template-without-title.php:21
+msgid "Edit"
+msgstr "Editeaza"
+
+#: functions.php:539
+msgid "Install Recommended Plugins"
+msgstr "Instalare module recomandate"
+
+#: functions.php:541
+#, php-format
+msgid ""
+"The %1$s plugin is required for this theme. Click on the big blue button "
+"below to install and activate %1$s."
+msgstr ""
+"Modulul %1$s este necesar pentru aceasta tema. Apasa butonul albastru pentru "
+"a instala si activa modulul %1$s."
+
+#: functions.php:542
+#, php-format
+msgid ""
+"The %1$s is installed but currently inactive. Please go to the <a href=\"%2$s"
+"\">plugin administration page</a> page to activate it."
+msgstr ""
+"Modulul %1$s este instalat dar nu este activat. Te rog sa mergi in <a href="
+"\"%2$s\">pagina de administrare a modulelor</a> pentru a-l activa."
+
+#: functions.php:543
+#, php-format
+msgid "Install %s Now"
+msgstr "Instaleaza %s acum"
+
+#: functions.php:545
+msgid "Something went wrong with the plugin API."
+msgstr "Ceva a mers prost la interfata API a modulului."
+
+#: functions.php:546
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. <a href=\"%2$s\"><strong>Click here to "
+"begin the installation process</strong></a>. You may be asked for FTP "
+"credentials based on your server setup."
+msgstr ""
+"Pentru aceasta tema este necesar modulul %1$s . <a href=\"%2$s"
+"\"><strong>Apasa aici pentru instalare</strong></a>. In functie de "
+"configuratia serverului tau este posibil sa ai nevoie de datele unui cont "
+"FTP."
+
+#: functions.php:547
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Imi pare rau, nu ai permisiunile necesare pentru instalarea modulului %s. "
+"Contacteaza administratorul site-ului pentru ajutorul necesar instalarii "
+"acestui modul."
+
+#: functions.php:548
+#, php-format
+msgid ""
+"This theme requires the %1$s plugin. That plugin is currently inactive, so "
+"please go to the <a href=\"%2$s\">plugin administration page</a> to activate "
+"it."
+msgstr ""
+"Aceasta tema are nevoie de modulul %1$s. Acest modul este momentan "
+"dezactivat si trebuie sa mergi in <a href=\"%2$s\">pagina de administrare a "
+"modulelor</a>pentru a-l activa."
+
+#: functions.php:549
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+"Imi pare rau, nu ai permisiunile necesare pentru activarea modulului %s. "
+"Contacteaza administratorul site-ului pentru ajutorul necesar activalarii "
+"acestui modul."
+
+#: functions.php:550
+msgid "Return to Recommended Plugins Installer"
+msgstr "Inapoi la sectiunea de instalare a modulelor recomandate"
+
+#: functions.php:561
+msgid "SongWriter"
+msgstr "SongWriter"
+
+#: search.php:11
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Rezultatele cautarii pentru: %s"
+
+#: search.php:17
+msgid "Number of Results: "
+msgstr "Numarul de rezultate: "
+
+#: search.php:27
+msgid "Search results navigation"
+msgstr "Navigare in rezultatele cautarii"
+
+#: search.php:55
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Imi pare rau, nu am gasit nimic care sa corespunda cautarii tale. Incearca "
+"din nou folosind alti termeni de cautare."
+
+#: searchform.php:9
+msgid "Search here..."
+msgstr "Cauta aici..."
+
+#: single.php:41
+msgid "Pages:"
+msgstr "Pagini: "
+
+#: tag.php:11
+#, php-format
+msgid "Tag Archive: %s"
+msgstr "Arhiva etichetei: %s"
+
+#: cycloneslider/dark/slider.php:43
+msgid "View Larger Image"
+msgstr "Vezi imaginea mare"
+
+#: cycloneslider/dark/slider.php:46 cycloneslider/dark/slider.php:48
+msgid "Learn More"
+msgstr "Afla mai mult"
+
+#: cycloneslider/dark/slider.php:64 cycloneslider/default/slider.php:62
+#: cycloneslider/default/slider.php:66 cycloneslider/default/slider.php:70
+#: cycloneslider/standard/slider.php:70
+msgid "Slide type not supported."
+msgstr "Tip de diapozitiv inacceptabil."
+
+#: functions/be/fw-options.php:1361
+msgid "settings reset."
+msgstr "initializarea setarilor."
+
+#: functions/be/fw-setup.php:16
+msgid "Theme Options"
+msgstr "Optiunile temei"
+
+#: functions/fe/google-map-shortcode.php:100
+msgid "No location found for the entered address."
+msgstr "Nu am gasit locatia adresei introduse."
+
+#: functions/fe/google-map-shortcode.php:102
+msgid "Invalid request. Did you enter an address?"
+msgstr "Cerere invalida. Sigur ai introdus o adresa?"
+
+#: functions/fe/google-map-shortcode.php:104
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+"Ceva a mers prost la obtinerea hartii, asigura-te ca ai introdus un "
+"shortcode corect."
+
+#: functions/fe/google-map-shortcode.php:107
+msgid "Unable to contact Google API service."
+msgstr "Contactarea serviciului Google API nu este posibila."
+
+#: functions/fe/widget-facebook.php:12
+msgid "Displays Facebook Like Box."
+msgstr "Arata caseta de Like pe Facebook."
+
+#: functions/fe/widget-facebook.php:14
+msgid "SongWriter Facebook Like Box Widget"
+msgstr "SongWriter: Like pe Facebook"
+
+#: functions/fe/widget-facebook.php:56 functions/fe/widget-info-box.php:51
+#: functions/fe/widget-posts-column.php:41
+#: functions/fe/widget-posts-default.php:41
+#: functions/fe/widget-posts-grid.php:41 functions/fe/widget-posts-list.php:41
+#: functions/fe/widget-posts-slider.php:41
+#: functions/fe/widget-posts-thumbnail.php:41
+#: functions/fe/widget-twitter.php:39
+msgid "Title:"
+msgstr "Titlu: "
+
+#: functions/fe/widget-facebook.php:63
+msgid "Facebook Page URL:"
+msgstr "URL-ul paginii de Facebook: "
+
+#: functions/fe/widget-facebook.php:67
+msgid ""
+"Insert here the full URL of your Facebook Page that will be liked (example: "
+"http://www.facebook.com/FacebookDevelopers)."
+msgstr ""
+"Introdu aici URL-ul paginii de facebook la care vizitatorii vor da Like "
+"(example: http://www.facebook.com/FacebookDevelopers)."
+
+#: functions/fe/widget-facebook.php:73
+msgid "Like Box Height: (optional)"
+msgstr "Inaltimea casetei de Like: (optional)"
+
+#: functions/fe/widget-facebook.php:77
+msgid ""
+"Insert here the height of Like Box. The value is in pixels, but in the field "
+"please write ONLY NUMBERS (without symbol \"px\")!"
+msgstr ""
+"Introdu aici inaltimea casetei de Like. Valoarea este in pixeli si te rog sa "
+"introduci DOAR NUMARUL (fara simbolul \"px\")!"
+
+#: functions/fe/widget-facebook.php:83
+msgid "Show Faces:"
+msgstr "Arata imaginile de profil: "
+
+#: functions/fe/widget-facebook.php:90
+msgid "Specify whether to display profile photos of people who like the page."
+msgstr ""
+"Alege daca sa afisam sau nu imaginile de profil ale utilizatorilor care au "
+"dat Like."
+
+#: functions/fe/widget-facebook.php:96
+msgid "Show Stream:"
+msgstr "Arata fluxul: "
+
+#: functions/fe/widget-facebook.php:103
+msgid "Specify whether to display a stream of the latest posts by the Page."
+msgstr "Alege daca sa afisam sau nu fluxul paginii de Facebook."
+
+#: functions/fe/widget-info-box.php:12
+msgid "Displays a box with your custom text and icon."
+msgstr "Arata o caseta cu text si pictograma personalizate."
+
+#: functions/fe/widget-info-box.php:14
+msgid "SongWriter Info-Box"
+msgstr "SongWriter: caseta Info"
+
+#: functions/fe/widget-info-box.php:41
+msgid "Icon:"
+msgstr "Pictograma: "
+
+#: functions/fe/widget-info-box.php:45
+msgid ""
+"Insert here the name of an icon (example: <strong>icon_calendar</strong>)."
+msgstr ""
+"Introdu aici numele pictogramei (de exemplu: <strong>pictograma_calendar</"
+"strong>)."
+
+#: functions/fe/widget-info-box.php:58
+msgid "Text:"
+msgstr "Text: "
+
+#: functions/fe/widget-posts-column.php:12
+msgid ""
+"Displays the latest posts from the selected category as a column with "
+"highlighted first post."
+msgstr ""
+"Arata cele mai noi articole dintr-o categorie sub forma de coloana, cu "
+"primul articol evidentiat."
+
+#: functions/fe/widget-posts-column.php:14
+msgid "SongWriter Posts-Column"
+msgstr "SongWriter: coloana articole"
+
+#: functions/fe/widget-posts-column.php:48
+#: functions/fe/widget-posts-default.php:48
+#: functions/fe/widget-posts-grid.php:48 functions/fe/widget-posts-list.php:48
+#: functions/fe/widget-posts-slider.php:48
+#: functions/fe/widget-posts-thumbnail.php:48
+msgid "Category:"
+msgstr "Categoria: "
+
+#: functions/fe/widget-posts-column.php:58
+#: functions/fe/widget-posts-default.php:58
+#: functions/fe/widget-posts-grid.php:58 functions/fe/widget-posts-list.php:58
+#: functions/fe/widget-posts-slider.php:58
+#: functions/fe/widget-posts-thumbnail.php:58
+msgid "Select a category of posts."
+msgstr "Alege o categorie de articole."
+
+#: functions/fe/widget-posts-column.php:64
+#: functions/fe/widget-posts-default.php:64
+#: functions/fe/widget-posts-grid.php:64 functions/fe/widget-posts-list.php:64
+#: functions/fe/widget-posts-slider.php:64
+#: functions/fe/widget-posts-thumbnail.php:64
+msgid "Number of posts:"
+msgstr "Numarul de articole: "
+
+#: functions/fe/widget-posts-column.php:68
+#: functions/fe/widget-posts-default.php:68
+#: functions/fe/widget-posts-grid.php:68 functions/fe/widget-posts-list.php:68
+#: functions/fe/widget-posts-slider.php:68
+#: functions/fe/widget-posts-thumbnail.php:68
+msgid ""
+"Insert here the number of latest posts from the selected category which you "
+"want to display."
+msgstr ""
+"Introdu aici numarul de articole pe care vrei sa il afisam din categoria "
+"selectata."
+
+#: functions/fe/widget-posts-default.php:12
+msgid ""
+"Displays the latest posts from the selected category in the default manner."
+msgstr ""
+"Arata cele mai noi articole dintr-o categorie in mod implicit, cu primul "
+"articol evidentiat."
+
+#: functions/fe/widget-posts-default.php:14
+msgid "SongWriter Posts-Default"
+msgstr "SongWriter: arata articole"
+
+#: functions/fe/widget-posts-grid.php:12
+msgid "Displays the latest posts from the selected category as a grid."
+msgstr "Arata cele mai noi articole dintr-o categorie sub forma de grila."
+
+#: functions/fe/widget-posts-grid.php:14
+msgid "SongWriter Posts-Grid"
+msgstr "SongWriter: grila de articole"
+
+#: functions/fe/widget-posts-list.php:12
+msgid ""
+"Displays the latest posts from the selected category as an unordered list "
+"with highlighted first post."
+msgstr ""
+"Arata cele mai noi articole dintr-o categorie sub forma de lista neordonata, "
+"cu primul articol evidentiat."
+
+#: functions/fe/widget-posts-list.php:14
+msgid "SongWriter Posts-List"
+msgstr "SongWriter: lista de articole"
+
+#: functions/fe/widget-posts-slider.php:12
+msgid "Displays the latest posts from the selected category as a slider."
+msgstr "Arata cele mai noi articole dintr-o categorie sub forma de slider."
+
+#: functions/fe/widget-posts-slider.php:14
+msgid "SongWriter Posts-Slider"
+msgstr "SongWriter: slider articole"
+
+#: functions/fe/widget-posts-thumbnail.php:12
+msgid "Displays the latest posts from the selected category as the thumbnails."
+msgstr "Arata cele mai noi articole dintr-o categorie sub forma de miinaturi."
+
+#: functions/fe/widget-posts-thumbnail.php:14
+msgid "SongWriter Posts-Thumbnail"
+msgstr "SongWriter: miniaturi articole"
+
+#: functions/fe/widget-twitter.php:13
+msgid "Twitter widget by SongWriter"
+msgstr "Widget-ul Twitter al temei SongWriter."
+
+#: functions/fe/widget-twitter.php:15
+msgid "SongWriter Twitter Widget"
+msgstr "SongWriter: Twitter"
+
+#: functions/fe/widget-twitter.php:25
+msgid "Join us on Twitter"
+msgstr "Alatura-te pe Twitter"
+
+#: functions/fe/widget-twitter.php:46
+msgid "Twitter Username:"
+msgstr "Numele pe Twitter: "
+
+#: functions/fe/widget-twitter.php:50
+msgid "Insert your Twitter username. (ex: songwriter)."
+msgstr "Introdu numele contului tau Twitter (ex: songwriter)"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:19
+msgid ""
+"Display popular posts, recent posts, comments and tags in tabbed format."
+msgstr ""
+"Arata cele mai populare articole, cele mai recente articole, comentariile si "
+"etichetele organizate pe file."
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:21
+msgid "SongWriter Tab Widget"
+msgstr "SongWriter: file articole"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:41
+msgid "Select Tabs"
+msgstr "Alege filele"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:46
+msgid "Popular Tab"
+msgstr "Populare"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:50
+msgid "Recent Tab"
+msgstr "Recente"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:54
+msgid "Comments Tab"
+msgstr "Comentarii"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:58
+msgid "Tags Tab"
+msgstr "Etichete"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:63
+msgid "Tab Order"
+msgstr "Ordinea filelor"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:69
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:193
+msgid "Popular"
+msgstr "Populare"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:73
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:194
+msgid "Recent"
+msgstr "Recente"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:77
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:195
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "Comments"
+msgstr "Comentarii"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:81
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:196
+msgid "Tags"
+msgstr "Etichete"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:86
+msgid "Advanced Options"
+msgstr "Optiuni avansate"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:92
+msgid "Allow pagination"
+msgstr "Permite paginarea"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:99
+msgid "Number of posts to show:"
+msgstr "Numarul de articole: "
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:108
+msgid "Show post thumbnails"
+msgstr "Arata miniaturile articolelor"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:115
+msgid "Show post date"
+msgstr "Arata data articolului"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:122
+msgid "Show number of comments"
+msgstr "Arata numarul de comentarii"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:129
+msgid "Show post excerpt"
+msgstr "Arata rezumatul articolului"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:135
+msgid "Excerpt length (words):"
+msgstr "Lungimea rezumatului (cuvinte): "
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:148
+msgid "Number of comments on Comments Tab:"
+msgstr "Numarul de comentarii pe fila de comentarii:"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:157
+msgid "Show avatars on Comments Tab"
+msgstr "Arata avatare pe fila de comentarii"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "No Comment"
+msgstr "Fara comentarii"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:314
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:367
+msgid "One Comment"
+msgstr "Un comentariu"
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:426
+msgid "No comments yet."
+msgstr "Deocamdata fara comentarii."
+
+#: functions/fe/wp-tab-widget/wp-tab-widget.php:449
+msgid "No tags created."
+msgstr "Nu exista etichete."

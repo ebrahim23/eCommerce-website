@@ -1,0 +1,74 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&family=Tajawal&display=swap');
+
+  margin: 0;
+  padding: 0;
+  background-color: #EEE;
+  
+}
+.banner {
+  background: url(../images/1.jpg) no-repeat center center/cover;
+  height: 80vh;
+  color: #FFF;
+  text-align: center;
+  overflow: hidden;
+}
+.banner h1 {
+  padding-top: 180px;
+  padding-bottom: 20px;
+}
+.boox {
+  width: 98%;
+  overflow: hidden;
+  margin: 50px auto;
+}
+.card {
+  width: 100% !important;
+  margin-bottom: 20px;
+  min-height: 600px;
+}
+.card img {
+  height: 350px;
+}
+.books {
+  width: 90%;
+  margin: 50px auto;
+  overflow: hidden;
+}
+.books h1 {
+  margin-top: 20px;
+}
+.books p {
+  width: 70%;
+}
+.related-books {
+  margin: 50px;
+  overflow: hidden;
+}
+.related-books .row div {
+  margin-bottom: 30px;
+}
+.related-books .row div h4 {
+  margin-top: 10px;
+}
+.related-books .row div a {
+  color: #333;
+  text-align: left;
+}
+.related-books img {
+  width: 100%;
+  max-height: 350px;
+}
+.related-book {
+  background-color: #FFF;
+  padding: 5px;
+  border: 1px solid #eee;
+}
+footer {
+  background-color: #FFF;
+  padding: 10px;
+  font-weight: bold;
+}

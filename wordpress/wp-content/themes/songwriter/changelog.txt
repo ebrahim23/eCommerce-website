@@ -1,0 +1,127 @@
+Changelog Legend:
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+
+(19/09/2016) - Update - Version 2.0.5
+
+[*] Updated theme tags.
+
+----
+
+(10/06/2016) - Update - Version 2.0.4
+
+[+] Added option to set custom post excerpt length.
+[*] Updated Post Meta Data classes to pass the Google Structured Data test.
+
+----
+
+(09/05/2016) - Update - Version 2.0.3
+
+[*] Updated the list of available Google fonts.
+[*] Changed Support and Get Premium links.
+[*] Fixed CSS conflict with All-in-One Event Calendar (floating of event details in single event view).
+
+----
+
+(21/03/2016) - Update - Version 2.0.2
+
+[+] Added ability to select Character Set in the Theme Customizer.
+[*] Updated browser-specific styling to form elements (-webkit-appearance and -moz-appearance values).
+[*] Fixed CSS conflict with WooCommerce 2.5 (made the "max-width" value for .header-logo more specific).
+[*] Improved styling of the Contact Information panel on mobile devices.
+
+----
+
+(18/01/2016) - Update - Version 2.0.1
+
+[*] Removed platform specific styling to form elements by setting -webkit-appearance and -moz-appearance to "none".
+
+----
+
+(15/12/2015) - Update - Version 2.0.0
+
+[*] Moved custom Theme Options to the Customizer API.
+[+] Added "About SongWriter" admin page.
+[x] Removed Favicon option as it is a core option since WordPress 4.3.
+
+----
+
+(20/10/2015) - Update - Version 1.0.9
+ 
+[*] Updated the TGM Plugin Activation to the version 2.5.2.
+[!] Fixed problem with floating of the Reply form in the Comments section.
+
+----
+
+(25/09/2015) - Update - Version 1.0.8
+ 
+[+] Added custom Page Template for displaying Full Width pages without Title.
+[+] Added Brazilian Portuguese translation.
+
+----
+
+(29/06/2015) - Update - Version 1.0.7
+ 
+[*] Updated the TGM Plugin Activation to the version 2.4.2.
+[*] Updated German translation.
+[*] Increased height of the responsive drop-down menu.
+[*] Specified a recommended height of the Header Image.
+
+----
+
+(27/03/2015) - Update - Version 1.0.6
+ 
+[+] Added ability to use the "nextpage" tag on pages.
+[+] Added Danish translation.
+[*] Updated Spanish translation.
+[*] Updated Czech translation.
+
+----
+
+(10/02/2015) - Update - Version 1.0.5
+ 
+[+] Added Greek translation.
+[+] Added support for the "pingback" link in <head> section.
+[*] Updated 404 Page and No Search Results templates (added search form).
+
+----
+
+(14/01/2015) - Update - Version 1.0.4
+
+[+] Added support for the Title Tag feature.
+[*] Updated paginate_links() arguments (added "add_args").
+
+----
+
+(31/12/2014) - Update - Version 1.0.3
+
+[+] Added Italian translation.
+[*] Updated the "viewport" meta tag.
+[*] Updated Placeholders.js script to the version 3.0.2.
+
+----
+
+(18/12/2014) - Update - Version 1.0.2
+
+[+] Added Romanian translation.
+[+] Mentioned the Text Domain in style.css.
+[*] Set the priority of excerpt_length filter from 999 to 20.
+
+----
+
+(09/12/2014) - Update - Version 1.0.1
+
+[+] Added Dutch translation.
+[*] Updated German translation.
+[*] Updated including of the TGM_Plugin_Activation class (only the users who are allowed to install plugins can see it now).
+
+----
+
+(07/10/2014) - The initial public release. - Version 1.0.0

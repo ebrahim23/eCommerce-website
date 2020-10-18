@@ -1,0 +1,39 @@
+                                               WORDPRESS COMMEN FUNCTION
+
+<?php language_attributes() ?>
+<?php bloginfo('name') ?>
+<?php bloginfo('charset') ?>
+<?php bloginfo('template_url') ?>
+<?php bloginfo('stylesheet_url') ?>
+<?php bloginfo('description') ?>
+<?php is_front_page() ?>
+<?php wp_title() ?>
+<?php wp_head() ?>
+<?php wp_footer() ?>
+<?php get_header() ?>
+<?php get_footer() ?>
+<?php echo Date('Y') ?>
+<?php wp_enqueue_style() ?>
+<?php wp_enqueue_script() ?>
+<?php get_template_directory() ?>
+<?php have_posts() ?>
+<?php the_post() ?>
+<?php has_post_thumbnail() ?>
+<?php post_thumbnail() ?>
+<?php the_permalink() ?>
+<?php the_date() ?>
+<?php the_author() ?>
+<?php previous_posts_link() ?>
+<?php next_posts_link() ?>
+<?php comment_form() ?>
+<?php wp_list_comments() ?>
+<?php add_theme_support() ?>
+<?php register_nav_menus() ?>
+<?php add_filter() ?>
+<?php add_action() ?>
+<?php get_template_directory_uri() ?>
+<?php the_author_posts_link() ?>
+<?php the_time('F jS, Y') ?>
+<?php the_content() ?>
+<?php the_excerpt() ?>
+<?php comments_template() ?>

@@ -1,0 +1,108 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&family=&display=swap');*/
+:root {
+    --main-color: #007bff;
+    --second-color: #6610f2;
+    --red-color: #dc3545;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Cairo', sans-serif;
+    background-color: #FFF;
+    color: #333;
+}
+
+.login {
+    width: 300px;
+    margin: 100px auto;
+    background-color: #333;
+    color: #FFF;
+    padding: 50px;
+    border-radius: 10px;
+}
+.login h1 {
+    font-family: 'Tajawal', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.login form input {
+    margin-bottom: 15px;
+}
+
+.dashboard {
+    background-color: #FFF;
+    color: #000;
+}
+.dashboard header {
+    background-color: #333;
+    color: #FFF;
+    padding: 5px 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 5;
+}
+.dashboard header .me {
+    display: flex;
+    gap: 2rem;
+}
+.dashboard .sidebar {
+    background-color: #dc3545;
+    width: 20%;
+    height: calc(100% - 60px);
+    position: fixed;
+    top: 60px;
+    right: 0;
+    color: #FFF;
+}
+.dashboard .sidebar a {
+    color: #FFF;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    background-color: #333;
+    display: block;
+    margin: 5px 0;
+}
+.dashboard .sidebar a:hover, .sidebar a.active {
+    background-color: #000;
+}
+.dashboard .look-form {
+    margin: 100px 350px;
+    text-align: right;
+}
+.dashboard .look-form input:not(.sub) {
+    padding: 5px 10px;
+    width: 566px;
+    display: block;
+    margin-bottom: 5px;
+    background-color: #eee;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.dashboard .look-form .sub {
+    margin-top: 10px;
+}
+.dashboard .look-form label {
+    font-size: 30px;
+}
+.dashboard .cats-table {
+    width: 70%;
+    margin: 0 350px 0;
+}
+.dashboard .cats-table .custom-btn {
+    padding: 0 20px;
+    margin-left: 10px;
+}

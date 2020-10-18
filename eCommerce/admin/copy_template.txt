@@ -1,0 +1,54 @@
+<?php
+
+  /*
+  ===========================================
+  ============== Copy Template ==============
+  ===========================================
+  */
+
+  ob_start();
+
+  session_start();
+
+  if(isset($_SESSION['username'])){
+    $titlePage = 'Items';
+
+    include 'init.php';
+
+    $action = isset($_GET['action']) ? $_GET['action'] : 'Manage';
+
+    if($action == "Manage"){
+      // Manage Page
+      echo 'Hello In Manage Items Page';
+
+    }elseif($action == "Add"){
+      // Add Page
+
+    }elseif($action == "Insert"){
+      // Insert Page
+
+    } elseif($action == "Edit"){
+      // Edit Page
+
+    } elseif($action == "Update"){
+      // Update Page
+
+    } elseif($action == 'Delete') {
+      // Delete Page
+
+    } elseif($action == 'Activate') {
+      // Activate Page
+
+    }
+
+    include $temp . 'footer.php';
+
+  } else{
+
+    header('location: index.php');
+    exit();
+
+  }
+
+  ob_end_flush();
+?>

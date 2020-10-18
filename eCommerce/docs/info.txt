@@ -1,0 +1,15 @@
+Name: ELMester Shop
+
+Kind: eCommerce Website
+
+Version: 1.0.0
+
+Start_Data: 12/6/2020
+
+End_Date: 23/7/2020
+
+____________________________________
+
+*&* i created (init.php) file to put all files and directories in it
+*&* i Created ($noNav) variable to remove the navbar from some pages like login page
+*&* i created (language) files [Arabic, English] to Change site language dynamicly
